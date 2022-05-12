@@ -15,4 +15,6 @@ add second line
 Ξςβες ξς 192.168.85.154: TTL=128
 
 
-ret
+ret1
+ret2
+
